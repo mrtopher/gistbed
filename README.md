@@ -2,7 +2,7 @@
 
 ## A Github Gist Embed Plug-in for Statamic CMS
 
-Simple Statamic plug-in for Gist embeds.
+Simple Statamic plug-in for [Gist](http://gist.github.com) embeds.
 
 ### Installation
 
